@@ -1,0 +1,29 @@
+{
+  "name": "nodebb-plugin-redactor-center",
+  "version": "0.1.1",
+  "nbbpm": {
+    "compatibility": "~1.7.5"
+  },
+  "description": "A NodeBB plugin makes nodeBB able to align text center, and compatible with Redactor.",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MegaGM/nodebb-plugin-mega-colors.git"
+  },
+  "keywords": [
+    "nodebb",
+    "text",
+    "align",
+    "center"
+  ],
+  "license": "MIT",
+  "dependencies": {},
+  "homepage": "https://github.com/hmqgg/nodebb-plugin-redactor-center",
+  "maintainers": [
+    {
+      "name": "Mitch Hwang",
+      "email": "acgkiller@live.com"
+    }
+  ],
+  "directories": {}
+}

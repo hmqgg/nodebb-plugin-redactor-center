@@ -1,0 +1,12 @@
+{
+	"id": "nodebb-plugin-redactor-center",
+	"name": "NodeBB Text Align Center Plugin",
+	"description": "A NodeBB plugin makes nodeBB able to align text center, and compatible with Redactor.",
+	"url": "https://github.com/hmqgg/nodebb-plugin-redactor-center",
+	"library": "./library.js",
+	"hooks": [
+		{ "hook": "filter:parse.post", "method": "parse" },
+		{ "hook": "filter:parse.signature", "method": "parse" },
+		{ "hook": "filter:parse.raw", "method": "parse" }
+	]
+}
