@@ -1,8 +1,8 @@
 {
   "name": "nodebb-plugin-redactor-center",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "nbbpm": {
-    "compatibility": "~1.7.5"
+    "compatibility": "^1.8.0"
   },
   "description": "A NodeBB plugin makes nodeBB able to align text center, and compatible with Redactor.",
   "main": "library.js",
